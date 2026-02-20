@@ -25,4 +25,5 @@ void loop() {
     } else {
         Serial.println("No Object Detected");
     }
+    delay(300);
 }
